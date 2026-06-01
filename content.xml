@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260602000802X0CJL6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260602000802AAHV5D</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>1492: un año en vilo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>El inicio de la Edad Moderna</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Moisés Torres Díaz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este es un Recurso Educativo Abierto (REA) diseñado con eXeLearning que desarrolla una Situación de Aprendizaje competencial titulada &quot;1492: un año en vilo&quot;, adaptada a las pautas DUA y al nivel curricular de 2º ESO. A través de tareas guiadas y herramientas de curación de contenidos, el alumnado elaborará un producto final centrado en la realización de un telediario histórico. Incluye guía didáctica para el profesorado, criterios e instrumentos de evaluación, y orientaciones sobre la protección de datos personales y garantías de derechos digitales en el entorno escolar.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780350096959</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpvqhan8-u8y0qanc4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhan8-c4gl7o1l3</odePageId>
+  <odeParentPageId>page-mpvqhan8-u8y0qanc4</odeParentPageId>
+  <pageName>Desarrollo del producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Desarrollo del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhan9-yg7sr2gwu</odePageId>
+  <odeParentPageId>page-mpvqhan8-c4gl7o1l3</odeParentPageId>
+  <pageName>Inicio/Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio/Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio/Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio/Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvqhan9-yg7sr2gwu</odePageId>
+      <odeBlockId>block-1779983829056-26ikxkth0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhan9-yg7sr2gwu</odePageId>
+          <odeBlockId>block-1779983829056-26ikxkth0</odeBlockId>
+          <odeIdeviceId>idevice-1779983829050-58vwvct66</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>Título: “Cronistas de 1492: El telediario de la Edad Moderna”</strong></h1>
+<p style="text-align: justify;"><br /><strong>Centro de interés</strong><br />Tras haber trabajado el largo período de la Edad Media, planteamos los acontecimientos políticos, sociales y económicos que inician una nueva etapa en la historia universal: la Edad Moderna, centrándonos en concreto, en los hechos e hitos más relevantes ocurridos en un año decisivo como fue 1492 (la toma de Granada por parte de los Reyes Católicos, la expulsión de los judíos o el Descubrimiento de América). </p>
+<p style="text-align: justify;"><br /><strong>Nivel al que va dirigido</strong><br /><strong><em>Temporalización</em></strong><br />2º ESO<br />9 sesiones</p>
+<p style="text-align: justify;"><br /><strong>Materias implicadas</strong><br />Para el desarrollo del presente proyecto, establecemos una metodología transversal entre la asignatura de Geografía e Historia, el uso de la Lengua Castellana y Literatura (conocer las partes de la entrevista y cómo se estructura la creación de un guión) y Computación y Robótica (edición y montaje de vídeo y sonido) junto con la colaboración de la asignatura de Educación Plástica y Audiovisual.</p>
+<p style="text-align: justify;"><br /><strong>Idioma</strong><br />Castellano</p>
+<p style="text-align: justify;"><br /><strong>Descripción general</strong><br />El alumnado debe organizarse a través de un trabajo cooperativo organizado en grupos de 4 personas, los cuales deben crear un telediario histórico asumiendo una serie de roles individuales. El docente les asignará algún acontecimiento de los acaecidos durante el convulso 1492 y cada uno de los grupos deberá crear un reportaje periodístico ligado a dicho acontecimiento. Cada uno de los/as miembros del equipo deberán asumir uno de los roles establecidos por el docente (vestuario y atrezzo/guionista/ actor o actriz/ editor de vídeo) para investigar, grabar y elaborar dicha crónica audiovisual.</p>
+<p style="text-align: justify;"><br /><strong>Justificación</strong><br />Tras analizar la tarea anterior acerca de una rutina de pensamiento elaborada para realizar en clase, que ha sido puesta en marcha y ha funcionado, nos planteamos la justificación que la llevaría  a convertirse en un proyecto en el aula.</p>
+<p style="text-align: justify;">En primer lugar, si analizamos la importancia que tiene la autonomía del alumnado, debemos considerar imprescindible desarrollar también las habilidades de colaboración y responsabilidad dentro de su propio proceso de aprendizaje que llevará a que esta ABP permita establecer un enfoque importante a la hora de que nuestro alumnado construya dicho proyecto de forma cooperativa.</p>
+<p style="text-align: justify;">Por otro lado, hemos podido demostrar que el uso de la tecnología en el aula es un símbolo de motivación para el alumnado, debido al uso de herramientas digitales y de creación de vídeo a los cuales no están acostumbrados y que podría servir para obtener un producto final bastante profesional.</p>
+<p style="text-align: justify;">También, con respecto a la forma que el docente tiene de evaluar dicho proyecto, es esencial comprender el uso de las rúbricas de evaluación individualizadas por cada uno de los rolos y un sistema de coevaluación entre iguales, con el objetivo de obtener una evaluación lo más objetiva y transparente posible. </p>
+<p style="text-align: justify;">Y por último, si somos realistas a las necesidades que presente nuestro alumnado, el uso de los roles y de los distintos soportes técnicos favorece trabajar a diferente ritmo de aprendizaje que resultaría esencial para adaptar dicho proyecto a las necesidades que este plantee.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779983829050-58vwvct66","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>Título: “Cronistas de 1492: El telediario de la Edad Moderna”</strong></h1>\n<p style=\"text-align: justify;\"><br /><strong>Centro de interés</strong><br />Tras haber trabajado el largo período de la Edad Media, planteamos los acontecimientos políticos, sociales y económicos que inician una nueva etapa en la historia universal: la Edad Moderna, centrándonos en concreto, en los hechos e hitos más relevantes ocurridos en un año decisivo como fue 1492 (la toma de Granada por parte de los Reyes Católicos, la expulsión de los judíos o el Descubrimiento de América). </p>\n<p style=\"text-align: justify;\"><br /><strong>Nivel al que va dirigido</strong><br /><strong><em>Temporalización</em></strong><br />2º ESO<br />9 sesiones</p>\n<p style=\"text-align: justify;\"><br /><strong>Materias implicadas</strong><br />Para el desarrollo del presente proyecto, establecemos una metodología transversal entre la asignatura de Geografía e Historia, el uso de la Lengua Castellana y Literatura (conocer las partes de la entrevista y cómo se estructura la creación de un guión) y Computación y Robótica (edición y montaje de vídeo y sonido) junto con la colaboración de la asignatura de Educación Plástica y Audiovisual.</p>\n<p style=\"text-align: justify;\"><br /><strong>Idioma</strong><br />Castellano</p>\n<p style=\"text-align: justify;\"><br /><strong>Descripción general</strong><br />El alumnado debe organizarse a través de un trabajo cooperativo organizado en grupos de 4 personas, los cuales deben crear un telediario histórico asumiendo una serie de roles individuales. El docente les asignará algún acontecimiento de los acaecidos durante el convulso 1492 y cada uno de los grupos deberá crear un reportaje periodístico ligado a dicho acontecimiento. Cada uno de los/as miembros del equipo deberán asumir uno de los roles establecidos por el docente (vestuario y atrezzo/guionista/ actor o actriz/ editor de vídeo) para investigar, grabar y elaborar dicha crónica audiovisual.</p>\n<p style=\"text-align: justify;\"><br /><strong>Justificación</strong><br />Tras analizar la tarea anterior acerca de una rutina de pensamiento elaborada para realizar en clase, que ha sido puesta en marcha y ha funcionado, nos planteamos la justificación que la llevaría  a convertirse en un proyecto en el aula.</p>\n<p style=\"text-align: justify;\">En primer lugar, si analizamos la importancia que tiene la autonomía del alumnado, debemos considerar imprescindible desarrollar también las habilidades de colaboración y responsabilidad dentro de su propio proceso de aprendizaje que llevará a que esta ABP permita establecer un enfoque importante a la hora de que nuestro alumnado construya dicho proyecto de forma cooperativa.</p>\n<p style=\"text-align: justify;\">Por otro lado, hemos podido demostrar que el uso de la tecnología en el aula es un símbolo de motivación para el alumnado, debido al uso de herramientas digitales y de creación de vídeo a los cuales no están acostumbrados y que podría servir para obtener un producto final bastante profesional.</p>\n<p style=\"text-align: justify;\">También, con respecto a la forma que el docente tiene de evaluar dicho proyecto, es esencial comprender el uso de las rúbricas de evaluación individualizadas por cada uno de los rolos y un sistema de coevaluación entre iguales, con el objetivo de obtener una evaluación lo más objetiva y transparente posible. </p>\n<p style=\"text-align: justify;\">Y por último, si somos realistas a las necesidades que presente nuestro alumnado, el uso de los roles y de los distintos soportes técnicos favorece trabajar a diferente ritmo de aprendizaje que resultaría esencial para adaptar dicho proyecto a las necesidades que este plantee.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhan9-yg7sr2gwu</odePageId>
+      <odeBlockId>block-1780350878086-nivx5bqdq</odeBlockId>
+      <blockName>Guía de supervivencia digital para adolescentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhan9-yg7sr2gwu</odePageId>
+          <odeBlockId>block-1780350878086-nivx5bqdq</odeBlockId>
+          <odeIdeviceId>idevice-1780350878084-bvt7clf0h</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780350878084-bvt7clf0h" title="" href="{{context_path}}/content/resources/Guía de supervivencia digital para 2º eso.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Guía de supervivencia digital para 2º eso.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780350878084-bvt7clf0h","img_0":{"img":"{{context_path}}/content/resources/Guía de supervivencia digital para 2º eso.jpg","thumbnail":"{{context_path}}/content/resources/Guía de supervivencia digital para 2º eso.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhanb-5ou5hjlfp</odePageId>
+  <odeParentPageId>page-mpvqhan8-c4gl7o1l3</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvqhanb-5ou5hjlfp</odePageId>
+      <odeBlockId>block-1779998074248-7cfwx953u</odeBlockId>
+      <blockName>Organización de las tareas evaluables previas a la realización del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhanb-5ou5hjlfp</odePageId>
+          <odeBlockId>block-1779998074248-7cfwx953u</odeBlockId>
+          <odeIdeviceId>idevice-1779998074247-d6g3hg0ha</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">Tareas</td>
+<td style="width: 24.9645%; text-align: justify;">Criterios de evaluación</td>
+<td style="width: 24.9645%; text-align: justify;">Competencias específicas</td>
+<td style="width: 24.9645%; text-align: justify;">Sesiones</td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">
+<p>1. Distribución en equipos e iniciación a la investigación del hito asignado a cada uno de ellos.</p>
+<p><br />Búsqueda de información de: la conquista de Granada, la expulsión de los judíos o el Descubrimiento de América.</p>
+<p><br /></p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">
+<p>1.2. Contrastar y argumentar sobre temas y acontecimientos de la Prehistoria, la Edad Antigua, la Edad Media y la Edad Moderna, localizando y analizando de forma crítica de fuentes primarias y secundarias como pruebas históricas.</p>
+<p><br />2.3Incorporar y utilizar el uso adecuado de términos, conceptos y acontecimientos relevantes en su entorno relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas. </p>
+<p><br /></p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">Buscar, seleccionar, tratar y organizar información sobre temas relevantes del  presente y del pasado, usando críticamente fuentes históricas y geográficas, para  adquirir conocimientos, elaborar y expresar contenidos en varios formatos. </td>
+<td style="width: 24.9645%; text-align: justify;">2 sesiones</td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">
+<p>2. Diseño y organización del guión informativo.</p>
+<p>Se plantea la estructura del telediario junto con las preguntas más interesantes para la entrevista con ayuda de la profesora de Lengua Castellana y Literatura. </p>
+<p><br /></p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">
+<p>1.1.Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos utilizando estrategias de búsqueda, selección y tratamiento de la información de forma guiada sobre procesos y acontecimientos relevantes del presente y del pasado. </p>
+<p>3.3. Representar adecuadamente información geográfica e histórica, a través de diferentes  formas gráficas, cartográficas y visual.</p>
+<p><br /></p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">Conocer los principales desafíos a los que se han enfrentado distintas sociedades a  lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos  y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de  proyectos de investigación y el uso de fuentes fiables, para realizar propuestas que  contribuyan al desarrollo sostenible.</td>
+<td style="width: 24.9645%; text-align: justify;">2 sesiones</td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">
+<p> 3. Preparación del espacio audiovisual.</p>
+<p>Diseño y preparación del aula de audiovisuales con fondos para el plató, elementos visuales y diseño de decorados. <br /></p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">3.3. Representar adecuadamente información geográfica e histórica, a través de diferentes  formas gráficas, cartográficas y visual. </td>
+<td style="width: 24.9645%; text-align: justify;">5. Analizar de forma crítica planteamientos históricos y geográficos explicando la  construcción de los sistemas democráticos y los principios constitucionales que rigen la  vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro  marco de convivencia, para promover la participación ciudadana y la cohesión social. </td>
+<td style="width: 24.9645%; text-align: justify;">1 sesión</td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">
+<p>4. Grabación, edición y montaje de la crónica.</p>
+<p>Captura de audio/vídeo, montaje y posproducción de la imagen y el sonido.</p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">3.1. Adquirir y construir acontecimientos relevantes del mundo actual y de la historia, a través de procesos inductivos e  investigación y del trabajo por proyectos, de retos o problemas, iniciándose en la aplicación de procesos inductivos, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados. </td>
+<td style="width: 24.9645%; text-align: justify;">5. Analizar de forma crítica planteamientos históricos y geográficos explicando la  construcción de los sistemas democráticos y los principios constitucionales que rigen la  vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro  marco de convivencia, para promover la participación ciudadana y la cohesión social. </td>
+<td style="width: 24.9645%; text-align: justify;">3 sesiones</td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">
+<p>5. Visualización del vídeo y evaluación.</p>
+<p>Análisis de resultados del producto final y posterior evaluación entre iguales.</p>
+</td>
+<td style="width: 24.9645%; text-align: justify;">3.1. Adquirir y construir acontecimientos relevantes del mundo actual y de la historia, a través de procesos inductivos e  investigación y del trabajo por proyectos, de retos o problemas, iniciándose en la aplicación de procesos inductivos, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados</td>
+<td style="width: 24.9645%; text-align: justify;">2. Indagar, argumentar y elaborar productos propios sobre problemas geográficos,  históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global,  para desarrollar un pensamiento crítico, respetuoso con las diferencias, que contribuya  a la construcción de la propia identidad y a enriquecer el acervo común. </td>
+<td style="width: 24.9645%; text-align: justify;">1 sesión</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: center;">Moisés Torres Díaz, autoría propia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779998074247-d6g3hg0ha","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">Tareas</td>\n<td style=\"width: 24.9645%; text-align: justify;\">Criterios de evaluación</td>\n<td style=\"width: 24.9645%; text-align: justify;\">Competencias específicas</td>\n<td style=\"width: 24.9645%; text-align: justify;\">Sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>1. Distribución en equipos e iniciación a la investigación del hito asignado a cada uno de ellos.</p>\n<p><br />Búsqueda de información de: la conquista de Granada, la expulsión de los judíos o el Descubrimiento de América.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>1.2. Contrastar y argumentar sobre temas y acontecimientos de la Prehistoria, la Edad Antigua, la Edad Media y la Edad Moderna, localizando y analizando de forma crítica de fuentes primarias y secundarias como pruebas históricas.</p>\n<p><br />2.3Incorporar y utilizar el uso adecuado de términos, conceptos y acontecimientos relevantes en su entorno relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas. </p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">Buscar, seleccionar, tratar y organizar información sobre temas relevantes del  presente y del pasado, usando críticamente fuentes históricas y geográficas, para  adquirir conocimientos, elaborar y expresar contenidos en varios formatos. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">2 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>2. Diseño y organización del guión informativo.</p>\n<p>Se plantea la estructura del telediario junto con las preguntas más interesantes para la entrevista con ayuda de la profesora de Lengua Castellana y Literatura. </p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>1.1.Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos utilizando estrategias de búsqueda, selección y tratamiento de la información de forma guiada sobre procesos y acontecimientos relevantes del presente y del pasado. </p>\n<p>3.3. Representar adecuadamente información geográfica e histórica, a través de diferentes  formas gráficas, cartográficas y visual.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">Conocer los principales desafíos a los que se han enfrentado distintas sociedades a  lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos  y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de  proyectos de investigación y el uso de fuentes fiables, para realizar propuestas que  contribuyan al desarrollo sostenible.</td>\n<td style=\"width: 24.9645%; text-align: justify;\">2 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p> 3. Preparación del espacio audiovisual.</p>\n<p>Diseño y preparación del aula de audiovisuales con fondos para el plató, elementos visuales y diseño de decorados. <br /></p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">3.3. Representar adecuadamente información geográfica e histórica, a través de diferentes  formas gráficas, cartográficas y visual. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">5. Analizar de forma crítica planteamientos históricos y geográficos explicando la  construcción de los sistemas democráticos y los principios constitucionales que rigen la  vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro  marco de convivencia, para promover la participación ciudadana y la cohesión social. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">1 sesión</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>4. Grabación, edición y montaje de la crónica.</p>\n<p>Captura de audio/vídeo, montaje y posproducción de la imagen y el sonido.</p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">3.1. Adquirir y construir acontecimientos relevantes del mundo actual y de la historia, a través de procesos inductivos e  investigación y del trabajo por proyectos, de retos o problemas, iniciándose en la aplicación de procesos inductivos, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">5. Analizar de forma crítica planteamientos históricos y geográficos explicando la  construcción de los sistemas democráticos y los principios constitucionales que rigen la  vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro  marco de convivencia, para promover la participación ciudadana y la cohesión social. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">3 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">\n<p>5. Visualización del vídeo y evaluación.</p>\n<p>Análisis de resultados del producto final y posterior evaluación entre iguales.</p>\n</td>\n<td style=\"width: 24.9645%; text-align: justify;\">3.1. Adquirir y construir acontecimientos relevantes del mundo actual y de la historia, a través de procesos inductivos e  investigación y del trabajo por proyectos, de retos o problemas, iniciándose en la aplicación de procesos inductivos, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados</td>\n<td style=\"width: 24.9645%; text-align: justify;\">2. Indagar, argumentar y elaborar productos propios sobre problemas geográficos,  históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global,  para desarrollar un pensamiento crítico, respetuoso con las diferencias, que contribuya  a la construcción de la propia identidad y a enriquecer el acervo común. </td>\n<td style=\"width: 24.9645%; text-align: justify;\">1 sesión</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: center;\">Moisés Torres Díaz, autoría propia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhanb-5ou5hjlfp</odePageId>
+      <odeBlockId>block-1779999279166-mc7tn1o7k</odeBlockId>
+      <blockName>Medidas DUA/ Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhanb-5ou5hjlfp</odePageId>
+          <odeBlockId>block-1779999279166-mc7tn1o7k</odeBlockId>
+          <odeIdeviceId>idevice-1779999279165-eirmlvxs3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>   <br /></p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 50.0473%;">Tarea</td>
+<td style="width: 50.0473%;">Principio DUA/ Medidas de accesibilidad</td>
+</tr>
+<tr>
+<td style="width: 50.0473%;">1. Investigación</td>
+<td style="width: 50.0473%;">Repositorio con lecturas graduadas y recursos multimedia.</td>
+</tr>
+<tr>
+<td style="width: 50.0473%;">2. Guión</td>
+<td style="width: 50.0473%;">Colaboración con la profesora de lengua y realización del guión en papel.</td>
+</tr>
+<tr>
+<td style="width: 50.0473%;">3. Espacio escénico</td>
+<td style="width: 50.0473%;">Reparto por roles individuales ajustados a destrezas y habilidades de cada uno de los miembros del grupo.</td>
+</tr>
+<tr>
+<td style="width: 50.0473%;">4. Grabación y edición</td>
+<td style="width: 50.0473%;">Apoyo de técnicos externos o disponibilidad para la realización de una representación teatral en vivo.</td>
+</tr>
+<tr>
+<td style="width: 50.0473%;">5. Coevaluación y exposición</td>
+<td style="width: 50.0473%;">Formularios simplificados.</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<p style="text-align: center;">Moisés Torres Díaz, autoría propia.</p>
+<p>En cuanto al alumnado que presenta necesidades específicas de apoyo educativo, en nuestro grupo-clase contamos con una alumna con capacidad intelectual límite, lo que conllevará un ajuste de las distintas tareas:</p>
+<ul>
+<li>Investigación: Uso de infografías simples, vídeos breves explicativos del acontecimiento trabajado y textos muy breves.</li>
+<li>Guión: Importante colaboración de la docente de Lengua Castellana y Literatura que le proporcionará una plantilla específica para la elaboración del mismo con preguntas semiabiertas.</li>
+<li>Roles y edición: desarrollará sus habilidades profesionales de forma completamente libre.</li>
+<li>Evaluación: uso de formularios con preguntas directas, apoyos visuales y menores opciones de respuesta.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779999279165-eirmlvxs3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>   <br /></p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 50.0473%;\">Tarea</td>\n<td style=\"width: 50.0473%;\">Principio DUA/ Medidas de accesibilidad</td>\n</tr>\n<tr>\n<td style=\"width: 50.0473%;\">1. Investigación</td>\n<td style=\"width: 50.0473%;\">Repositorio con lecturas graduadas y recursos multimedia.</td>\n</tr>\n<tr>\n<td style=\"width: 50.0473%;\">2. Guión</td>\n<td style=\"width: 50.0473%;\">Colaboración con la profesora de lengua y realización del guión en papel.</td>\n</tr>\n<tr>\n<td style=\"width: 50.0473%;\">3. Espacio escénico</td>\n<td style=\"width: 50.0473%;\">Reparto por roles individuales ajustados a destrezas y habilidades de cada uno de los miembros del grupo.</td>\n</tr>\n<tr>\n<td style=\"width: 50.0473%;\">4. Grabación y edición</td>\n<td style=\"width: 50.0473%;\">Apoyo de técnicos externos o disponibilidad para la realización de una representación teatral en vivo.</td>\n</tr>\n<tr>\n<td style=\"width: 50.0473%;\">5. Coevaluación y exposición</td>\n<td style=\"width: 50.0473%;\">Formularios simplificados.</td>\n</tr>\n</tbody>\n</table>\n<p><br /><br /></p>\n<p style=\"text-align: center;\">Moisés Torres Díaz, autoría propia.</p>\n<p>En cuanto al alumnado que presenta necesidades específicas de apoyo educativo, en nuestro grupo-clase contamos con una alumna con capacidad intelectual límite, lo que conllevará un ajuste de las distintas tareas:</p>\n<ul>\n<li>Investigación: Uso de infografías simples, vídeos breves explicativos del acontecimiento trabajado y textos muy breves.</li>\n<li>Guión: Importante colaboración de la docente de Lengua Castellana y Literatura que le proporcionará una plantilla específica para la elaboración del mismo con preguntas semiabiertas.</li>\n<li>Roles y edición: desarrollará sus habilidades profesionales de forma completamente libre.</li>\n<li>Evaluación: uso de formularios con preguntas directas, apoyos visuales y menores opciones de respuesta.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+  <odeParentPageId>page-mpvqhan8-u8y0qanc4</odeParentPageId>
+  <pageName>Proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+      <odeBlockId>block-1780033071725-dycergzss</odeBlockId>
+      <blockName>¿En qué consiste el proyecto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+          <odeBlockId>block-1780033071725-dycergzss</odeBlockId>
+          <odeIdeviceId>idevice-1780033071721-fie3pfi88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola chicos/as! Si te dijera que es para ti el año 1492, probablemente me hablarías de Cristóbal Colón y de los barcos, ¿a que sí?. Pero este año mantuvo a todo el mundo en vilo ante los acontecimientos que pasaron en tan poco tiempo y que supuso un cambio para siempre en la historia de la humanidad. </p>
+<p>Tu misión en este proyecto no es contarnos cómo ocurrieron los hechos, que pasó en Granada o en América analizando fechas, nombres imposibles o acontecimientos sino que te vas a convertir en un periodista o testigo de dichos acontecimientos para narrar la historia "en directo".</p>
+<p>El profesor dividirá la clase en 3 grandes grupos que analizarán 3 de los principales acontecimientos ocurridos este año:</p>
+<p>- 1. <strong>La Toma de Granada</strong>: El fin de Al-Ándalus. En este caso, analizando no solo la entrega de las llaves de la ciudad por parte de Boabdil a los Reyes Católicos sino también que supuso para la población la conquista cristiana. </p>
+<p>- 2.<strong> La Expulsión de los Judíos</strong>: El edicto de Granada que obligó a miles de personas a dejar sus casas en cuestión de meses. ¿A dónde se dirigieron?¿Qué supuso esto para la población granadina y castellana?</p>
+<p>- 3. <strong>La Conquista de América</strong>: El "encuentro" y choque de realidad de dos mundos tan diferentes que empezaban a construir un nuevo mapa.</p>
+<p><br /><strong>¿Cuál será el formato de dicho proyecto?</strong></p>
+<p>En este caso, vamos a ser un tanto originales y vamos a consolidar y construir un telediario a través de distintos reportajes grabados en vídeo y editados con la plataforma CapCut.</p>
+<p>Cada uno de vosotros/as asumirá un rol que establecerá el profesor con el objetivo de que coordinéis la realización de dicho vídeo desde distintas perspectivas: uno de los miembros del grupo se encargará del guión, también habrá actores y actrices que organizarán la puesta en escena, hablaremos también de la figura del editor/a de vídeo y sonido o del montaje de vestuario y atrezzo para dar una visión profesional de dichos reportajes. <br /></p>
+<p>También dos de vosotros/as os convertiréis en los presentadores/as de dicho telediario y os encargaréis de guiar la entrada de cada uno de estos reportajes.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780033071721-fie3pfi88","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola chicos/as! Si te dijera que es para ti el año 1492, probablemente me hablarías de Cristóbal Colón y de los barcos, ¿a que sí?. Pero este año mantuvo a todo el mundo en vilo ante los acontecimientos que pasaron en tan poco tiempo y que supuso un cambio para siempre en la historia de la humanidad. </p>\n<p>Tu misión en este proyecto no es contarnos cómo ocurrieron los hechos, que pasó en Granada o en América analizando fechas, nombres imposibles o acontecimientos sino que te vas a convertir en un periodista o testigo de dichos acontecimientos para narrar la historia \"en directo\".</p>\n<p>El profesor dividirá la clase en 3 grandes grupos que analizarán 3 de los principales acontecimientos ocurridos este año:</p>\n<p>- 1. <strong>La Toma de Granada</strong>: El fin de Al-Ándalus. En este caso, analizando no solo la entrega de las llaves de la ciudad por parte de Boabdil a los Reyes Católicos sino también que supuso para la población la conquista cristiana. </p>\n<p>- 2.<strong> La Expulsión de los Judíos</strong>: El edicto de Granada que obligó a miles de personas a dejar sus casas en cuestión de meses. ¿A dónde se dirigieron?¿Qué supuso esto para la población granadina y castellana?</p>\n<p>- 3. <strong>La Conquista de América</strong>: El \"encuentro\" y choque de realidad de dos mundos tan diferentes que empezaban a construir un nuevo mapa.</p>\n<p><br /><strong>¿Cuál será el formato de dicho proyecto?</strong></p>\n<p>En este caso, vamos a ser un tanto originales y vamos a consolidar y construir un telediario a través de distintos reportajes grabados en vídeo y editados con la plataforma CapCut.</p>\n<p>Cada uno de vosotros/as asumirá un rol que establecerá el profesor con el objetivo de que coordinéis la realización de dicho vídeo desde distintas perspectivas: uno de los miembros del grupo se encargará del guión, también habrá actores y actrices que organizarán la puesta en escena, hablaremos también de la figura del editor/a de vídeo y sonido o del montaje de vestuario y atrezzo para dar una visión profesional de dichos reportajes. <br /></p>\n<p>También dos de vosotros/as os convertiréis en los presentadores/as de dicho telediario y os encargaréis de guiar la entrada de cada uno de estos reportajes.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+      <odeBlockId>block-1780351127463-ucowbs518</odeBlockId>
+      <blockName>Planificación y organización del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+          <odeBlockId>block-1780351127463-ucowbs518</odeBlockId>
+          <odeIdeviceId>idevice-1780351127462-peprfi9vp</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://miro.com/app/live-embed/uXjVHNl9lGU=/?embedMode=view_only_without_ui&moveToViewport=3442%2C379%2C3232%2C1536&embedId=875873537532" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+      <odeBlockId>block-1780034417354-jwy0c6ltn</odeBlockId>
+      <blockName>Planificación y organización del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+          <odeBlockId>block-1780034417354-jwy0c6ltn</odeBlockId>
+          <odeIdeviceId>idevice-1780034417350-sj06b9xgx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Moisés Torres creado en Miro, autoría propia.</p>
+<p>La imagen que aparece en la parte superior, recoge un planificador creado con el objetivo de entender las partes en las que se debe organizar dicho proyecto, las sesiones que se van a realizar y qué se va a pedir en cada una de ellas para que el alumno sea plenamente consciente de cómo se va a desarrollar esta situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780034417350-sj06b9xgx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Moisés Torres creado en Miro, autoría propia.</p>\n<p>La imagen que aparece en la parte superior, recoge un planificador creado con el objetivo de entender las partes en las que se debe organizar dicho proyecto, las sesiones que se van a realizar y qué se va a pedir en cada una de ellas para que el alumno sea plenamente consciente de cómo se va a desarrollar esta situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+      <odeBlockId>block-1780034261781-mwh6c1y7s</odeBlockId>
+      <blockName>Herramientas y materiales que os pueden servir para construir dicho proyecto.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+          <odeBlockId>block-1780034261781-mwh6c1y7s</odeBlockId>
+          <odeIdeviceId>idevice-1780034261779-do9gf84ge</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wakelet.com/wake/9BxVa3FiY3CxdyGTk73d5" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+      <odeBlockId>block-1780034690616-p8pdxt2oq</odeBlockId>
+      <blockName>Contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhand-vacnzx6uc</odePageId>
+          <odeBlockId>block-1780034690616-p8pdxt2oq</odeBlockId>
+          <odeIdeviceId>idevice-1780034690612-72hjx8632</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Moisés Torres Díaz creado en Wakelet con recursos de distintas plataformas.</p>
+<p>En la plataforma Wakelet, se recogen una serie de herramientas y materiales que pueden ser utilizados por el alumnado para la realización de dicho proyecto, donde aparecen: infografías, vídeos, juegos interactivos, documentos gráficos o textos.</p>
+<p>Esto servirá para tener un conocimiento previo o para construir este proyecto sobre una base estructurada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780034690612-72hjx8632","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Moisés Torres Díaz creado en Wakelet con recursos de distintas plataformas.</p>\n<p>En la plataforma Wakelet, se recogen una serie de herramientas y materiales que pueden ser utilizados por el alumnado para la realización de dicho proyecto, donde aparecen: infografías, vídeos, juegos interactivos, documentos gráficos o textos.</p>\n<p>Esto servirá para tener un conocimiento previo o para construir este proyecto sobre una base estructurada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhane-haz32b700</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvqhane-haz32b700</odePageId>
+      <odeBlockId>block-1780333370434-zvyeo2gdt</odeBlockId>
+      <blockName>¿Cómo te vamos a evaluar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhane-haz32b700</odePageId>
+          <odeBlockId>block-1780333370434-zvyeo2gdt</odeBlockId>
+          <odeIdeviceId>idevice-1780333370430-47806jxht</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Se desarrolla una rúbrica de evaluación que servirá como instrumento para el proceso de aprendizaje del alumno/a.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1780333370430-47806jxht%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Cumplimiento%20del%20Rol%20Asignado%22%2C%22Colaboraci%F3n%20y%20trabajo%20en%20equipo%22%2C%22Calidad%20del%20contenido%22%2C%22Uso%20de%20la%20tecnolog%EDa%22%5D%2C%22scores%22%3A%5B%224%22%2C%223%22%2C%222%22%2C%221%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Ha%20desempe%F1ado%20su%20rol%20de%20forma%20excelente%20%28guion%2C%20edici%F3n%2C%20atrezzo%20o%20actuaci%F3n%29%2C%20aportando%20soluciones%20creativas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Ha%20cumplido%20correctamente%20con%20las%20funciones%20de%20su%20rol%20sin%20requerir%20supervisi%F3n%20constante.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Ha%20cumplido%20sus%20funciones%20a%20medias%20o%20tarde%2C%20ralentizando%20el%20ritmo%20de%20sus%20compa%F1eros.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20ha%20asumido%20las%20funciones%20de%20su%20rol%20o%20ha%20tenido%20que%20ser%20sustituido%20por%20el%20grupo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Muestra%20una%20actitud%20proactiva%2C%20asiste%20a%20sus%20compa%F1eros%20y%20comparte%20archivos%20en%20la%20nube%20de%20forma%20ejemplar.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Trabaja%20bien%20en%20grupo%2C%20respeta%20los%20turnos%20de%20palabra%20y%20participa%20de%20manera%20constructiva.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Trabaja%20de%20forma%20individual%20aislada%2C%20interactuando%20poco%20con%20el%20equipo%20y%20dificultando%20la%20coordinaci%F3n.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Muestra%20una%20actitud%20pasiva%20o%20conflictiva%2C%20no%20colaborando%20en%20los%20espacios%20compartidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20reportaje%20hist%F3rico%20asignado%20carece%20de%20errores%2C%20usa%20fuentes%20fiables%20y%20respeta%20la%20estructura%20formal%20period%EDstica.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20contenido%20hist%F3rico%20es%20correcto%20y%20el%20guion%20sigue%20la%20estructura%20del%20telediario%2C%20con%20fallos%20menores.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20informaci%F3n%20hist%F3rica%20es%20escasa%20o%20incompleta%3B%20la%20estructura%20formal%20del%20guion%20es%20descuidada.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20graves%20anacronismos%20hist%F3ricos%20o%20el%20guion%20carece%20de%20la%20estructura%20formal%20requerida.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Demuestra%20maestr%EDa%20en%20la%20herramienta%20digital%20sugerida%20%28CapCut/Canva%29%2C%20aplicando%20croma%20o%20edici%F3n%20avanzada.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20la%20herramienta%20digital%20de%20manera%20aut%F3noma%20para%20resolver%20la%20tarea%20audiovisual%20de%20forma%20correcta.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Muestra%20dificultades%20t%E9cnicas%20recurrentes%20con%20el%20editor%20o%20los%20archivos%20digitales%2C%20requiriendo%20ayuda%20constante.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20ha%20sabido%20utilizar%20las%20herramientas%20digitales%20propuestas%20ni%20ha%20colaborado%20en%20los%20entornos%20virtuales.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Cumplimiento%20del%20Rol%20Asignado%22%2C%22Colaboraci%F3n%20y%20trabajo%20en%20equipo%22%2C%22Calidad%20del%20contenido%22%2C%22Uso%20de%20la%20tecnolog%EDa%22%5D%2C%22scores%22%3A%5B%224%22%2C%223%22%2C%222%22%2C%221%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Ha%20desempe%F1ado%20su%20rol%20de%20forma%20excelente%20%28guion%2C%20edici%F3n%2C%20atrezzo%20o%20actuaci%F3n%29%2C%20aportando%20soluciones%20creativas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Ha%20cumplido%20correctamente%20con%20las%20funciones%20de%20su%20rol%20sin%20requerir%20supervisi%F3n%20constante.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Ha%20cumplido%20sus%20funciones%20a%20medias%20o%20tarde%2C%20ralentizando%20el%20ritmo%20de%20sus%20compa%F1eros.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20ha%20asumido%20las%20funciones%20de%20su%20rol%20o%20ha%20tenido%20que%20ser%20sustituido%20por%20el%20grupo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Muestra%20una%20actitud%20proactiva%2C%20asiste%20a%20sus%20compa%F1eros%20y%20comparte%20archivos%20en%20la%20nube%20de%20forma%20ejemplar.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Trabaja%20bien%20en%20grupo%2C%20respeta%20los%20turnos%20de%20palabra%20y%20participa%20de%20manera%20constructiva.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Trabaja%20de%20forma%20individual%20aislada%2C%20interactuando%20poco%20con%20el%20equipo%20y%20dificultando%20la%20coordinaci%F3n.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Muestra%20una%20actitud%20pasiva%20o%20conflictiva%2C%20no%20colaborando%20en%20los%20espacios%20compartidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20reportaje%20hist%F3rico%20asignado%20carece%20de%20errores%2C%20usa%20fuentes%20fiables%20y%20respeta%20la%20estructura%20formal%20period%EDstica.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20contenido%20hist%F3rico%20es%20correcto%20y%20el%20guion%20sigue%20la%20estructura%20del%20telediario%2C%20con%20fallos%20menores.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20informaci%F3n%20hist%F3rica%20es%20escasa%20o%20incompleta%3B%20la%20estructura%20formal%20del%20guion%20es%20descuidada.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20graves%20anacronismos%20hist%F3ricos%20o%20el%20guion%20carece%20de%20la%20estructura%20formal%20requerida.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Demuestra%20maestr%EDa%20en%20la%20herramienta%20digital%20sugerida%20%28CapCut/Canva%29%2C%20aplicando%20croma%20o%20edici%F3n%20avanzada.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20la%20herramienta%20digital%20de%20manera%20aut%F3noma%20para%20resolver%20la%20tarea%20audiovisual%20de%20forma%20correcta.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Muestra%20dificultades%20t%E9cnicas%20recurrentes%20con%20el%20editor%20o%20los%20archivos%20digitales%2C%20requiriendo%20ayuda%20constante.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20ha%20sabido%20utilizar%20las%20herramientas%20digitales%20propuestas%20ni%20ha%20colaborado%20en%20los%20entornos%20virtuales.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ESe%20desarrolla%20una%20r%FAbrica%20de%20evaluaci%F3n%20que%20servir%E1%20como%20instrumento%20para%20el%20proceso%20de%20aprendizaje%20del%20alumno/a.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Mois%E9s%20Torres%20D%EDaz%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Moisés Torres Díaz</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-text-after"><ul>
+<li>Recogida de datos: al estar digitalizado a través de la plataforma GoogleForms, el sistema procesa las respuestas de los alumnos de forma automática y calcula las medias ponderadas.</li>
+<li>Observación directa: Tras analizar los resultados, el docente puede obtener el reflejo de las puntuaciones que se establecen tanto de forma grupal como individual, si por ejemplo un alumno plantea una puntuación baja en “colaboración” en el trabajo cooperativo pero alta en el “cumplimiento del rol”. Esto nos permite adaptar y diseñar agrupamientos más eficientes y personalizados de cara a futuros proyectos.</li>
+<li>Resolución de conflictos: Si los datos y resultados obtenidos por el docente son un tanto extremos, esto permitirá detectar problemas de convivencia dentro del grupo para la resolución de conflictos.<br /></li>
+</ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ESe%20desarrolla%20una%20r%FAbrica%20de%20evaluaci%F3n%20que%20servir%E1%20como%20instrumento%20para%20el%20proceso%20de%20aprendizaje%20del%20alumno/a.%3C/p%3E</span><span class="exe-rubrics-text-after-data">%3Cul%3E%0A%3Cli%3ERecogida%20de%20datos%3A%20al%20estar%20digitalizado%20a%20trav%E9s%20de%20la%20plataforma%20GoogleForms%2C%20el%20sistema%20procesa%20las%20respuestas%20de%20los%20alumnos%20de%20forma%20autom%E1tica%20y%20calcula%20las%20medias%20ponderadas.%3C/li%3E%0A%3Cli%3EObservaci%F3n%20directa%3A%20Tras%20analizar%20los%20resultados%2C%20el%20docente%20puede%20obtener%20el%20reflejo%20de%20las%20puntuaciones%20que%20se%20establecen%20tanto%20de%20forma%20grupal%20como%20individual%2C%20si%20por%20ejemplo%20un%20alumno%20plantea%20una%20puntuaci%F3n%20baja%20en%20%u201Ccolaboraci%F3n%u201D%20en%20el%20trabajo%20cooperativo%20pero%20alta%20en%20el%20%u201Ccumplimiento%20del%20rol%u201D.%20Esto%20nos%20permite%20adaptar%20y%20dise%F1ar%20agrupamientos%20m%E1s%20eficientes%20y%20personalizados%20de%20cara%20a%20futuros%20proyectos.%3C/li%3E%0A%3Cli%3EResoluci%F3n%20de%20conflictos%3A%20Si%20los%20datos%20y%20resultados%20obtenidos%20por%20el%20docente%20son%20un%20tanto%20extremos%2C%20esto%20permitir%E1%20detectar%20problemas%20de%20convivencia%20dentro%20del%20grupo%20para%20la%20resoluci%F3n%20de%20conflictos.%3Cbr%20/%3E%3C/li%3E%0A%3C/ul%3E</span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhane-haz32b700</odePageId>
+      <odeBlockId>block-1780333943929-qcng6yjgl</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhane-haz32b700</odePageId>
+          <odeBlockId>block-1780333943929-qcng6yjgl</odeBlockId>
+          <odeIdeviceId>idevice-1780333943926-asu6mst4t</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a1dbf3eb493782dfe948617" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhane-haz32b700</odePageId>
+      <odeBlockId>block-1780333995273-g4lwckp2c</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhane-haz32b700</odePageId>
+          <odeBlockId>block-1780333995273-g4lwckp2c</odeBlockId>
+          <odeIdeviceId>idevice-1780333995269-6udx26u9f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">Genially. Diana de Autoevaluación (Plantilla)</p>
+<p>Tras la realización de este proyecto, el alumnado responderá a dicha diana de autoevaluación y el docente recabará la información obtenida en cada una de las dianas para saber así el progreso académico de su alumnado.</p>
+<ul>
+<li style="text-align: justify;">Observación directa: si la mayoría de las dianas se contraen hacia el centro (puntuaciones de 1 o 2) en el Eje C (Resolución de Problemas Técnicos), los datos le indican al docente que la formación previa en edición de vídeo ha sido insuficiente.</li>
+<li style="text-align: justify;">Resolución de conflictos: Esta diana nos servirá para analizar los patrones extremos de conducta de nuestro alumnado, por un lado, aquel alumnado que tiene una visión negativa de sí misma (baja autoestima) y por otro lado, aquellos que tienen una visión irreal de sí mismo (sobrevaloración). Para ello, el docente utilizará el instrumento 1 para contrastar estos resultados con un feedback individualizado de forma que la evaluación sea lo más objetivo posible.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780333995269-6udx26u9f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">Genially. Diana de Autoevaluación (Plantilla)</p>\n<p>Tras la realización de este proyecto, el alumnado responderá a dicha diana de autoevaluación y el docente recabará la información obtenida en cada una de las dianas para saber así el progreso académico de su alumnado.</p>\n<ul>\n<li style=\"text-align: justify;\">Observación directa: si la mayoría de las dianas se contraen hacia el centro (puntuaciones de 1 o 2) en el Eje C (Resolución de Problemas Técnicos), los datos le indican al docente que la formación previa en edición de vídeo ha sido insuficiente.</li>\n<li style=\"text-align: justify;\">Resolución de conflictos: Esta diana nos servirá para analizar los patrones extremos de conducta de nuestro alumnado, por un lado, aquel alumnado que tiene una visión negativa de sí misma (baja autoestima) y por otro lado, aquellos que tienen una visión irreal de sí mismo (sobrevaloración). Para ello, el docente utilizará el instrumento 1 para contrastar estos resultados con un feedback individualizado de forma que la evaluación sea lo más objetivo posible.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpvqhane-7my649g15</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoría y licencia</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpvqhane-7my649g15</odePageId>
+      <odeBlockId>block-1780334204342-xt1iavc33</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhane-7my649g15</odePageId>
+          <odeBlockId>block-1780334204342-xt1iavc33</odeBlockId>
+          <odeIdeviceId>idevice-1780334204338-7i743dhlo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este recurso educativo abierto ha sido creado por Moisés Torres Díaz en junio de 2026. Consiste en una Situación de Aprendizaje diseñada bajo los principios del Diseño Universal para el Aprendizaje (DUA) para el nivel de 2º ESO.</p>
+<p style="text-align: justify;">Se publica bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Eres libre de compartir, copiar, redistribuir y transformar este material para cualquier propósito, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780334204338-7i743dhlo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este recurso educativo abierto ha sido creado por Moisés Torres Díaz en junio de 2026. Consiste en una Situación de Aprendizaje diseñada bajo los principios del Diseño Universal para el Aprendizaje (DUA) para el nivel de 2º ESO.</p>\n<p style=\"text-align: justify;\">Se publica bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Eres libre de compartir, copiar, redistribuir y transformar este material para cualquier propósito, siempre que se reconozca la autoría y se mantenga la misma licencia en las obras derivadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpvqhane-7my649g15</odePageId>
+      <odeBlockId>block-1780351536611-5wdnvqg26</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpvqhane-7my649g15</odePageId>
+          <odeBlockId>block-1780351536611-5wdnvqg26</odeBlockId>
+          <odeIdeviceId>idevice-1780351536610-o8qttl0yx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">1492: un año en vilo</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este es un Recurso Educativo Abierto (REA) diseñado con eXeLearning que desarrolla una Situación de Aprendizaje competencial titulada "1492: un año en vilo", adaptada a las pautas DUA y al nivel curricular de 2º ESO. A través de tareas guiadas y herramientas de curación de contenidos, el alumnado elaborará un producto final centrado en la realización de un telediario histórico. Incluye guía didáctica para el profesorado, criterios e instrumentos de evaluación, y orientaciones sobre la protección de datos personales y garantías de derechos digitales en el entorno escolar.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Moisés Torres Díaz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#872258;color:#ffffff;">1492:un año en vilo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
